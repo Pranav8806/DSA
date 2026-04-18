@@ -10,6 +10,7 @@ class Solution {
                 n=n/10;
             }
         return abs(orignalval-rev);
+        
             
         }
     };
