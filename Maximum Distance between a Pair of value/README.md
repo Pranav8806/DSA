@@ -72,6 +72,4 @@ Maximum distance = 1
 * Linear time complexity
 * Works due to sorted (non-increasing) property
 
----
 
-✨ Ready to paste into your GitHub README!
