@@ -12,19 +12,13 @@ Given a sorted array that has been **rotated at some pivot**, and a target value
 
 ## 🧾 Example
 
-**Input:**
+Input:
 
-```
 nums = [4, 5, 6, 7, 0, 1, 2], target = 0
-```
 
-**Output:**
+Output:
 
-```
 4
-```
-
----
 
 ## 🚀 Approach
 
