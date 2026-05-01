@@ -65,20 +65,3 @@ Instead of using extra space:
 * **Time:** `O(n)`
 * **Space:** `O(1)`
 
----
-
-## 📚 When to Use This Approach
-
-* When learning basics of linked list manipulation
-* When constraints are small
-* When simplicity > optimization
-
----
-
-## 🏁 Conclusion
-
-This solution is simple and easy to understand but not optimal. For interviews, prefer the **in-place pointer swapping approach**.
-
----
-
-If you want, I can also give you the **optimal O(1) space solution** 👀

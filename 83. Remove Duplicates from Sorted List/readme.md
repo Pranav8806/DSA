@@ -53,14 +53,6 @@ Since the list is **sorted**, duplicates will always be **adjacent**.
 
 * No extra space used → **O(1)** ✅
 
----
-
-## ⚠️ Important Notes
-
-* Works **only because the list is sorted**
-* If the list is unsorted, this approach will fail
-
----
 
 ## 🚀 Why This is Optimal
 
@@ -68,12 +60,3 @@ Since the list is **sorted**, duplicates will always be **adjacent**.
 * Deletes nodes directly
 * Single pass traversal
 
-## 🏁 Conclusion
-
-Efficient and clean solution using pointer manipulation. This is the **expected optimal approach in interviews**.
-
----
-
-If you want, I can also give:
-👉 Unsorted version solution
-👉 Remove all duplicates completely (LeetCode hard version)
