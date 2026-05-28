@@ -35,13 +35,10 @@ We use the **Backtracking Algorithm**.
 # Dry Run for N = 4
 
 Initial Board:
-
-```text
 . . . .
 . . . .
 . . . .
 . . . .
-```
 
 ---
 
@@ -49,7 +46,6 @@ Initial Board:
 
 Place queen at `(0,0)`
 
-```text
 Q . . .
 . . . .
 . . . .
@@ -66,7 +62,6 @@ Try row `1`
 - col1 ❌
 - col2 ✅
 
-```text
 Q . . .
 . . Q .
 . . . .
@@ -83,7 +78,7 @@ No valid position possible ❌
 
 Backtrack:
 
-```text
+
 Q . . .
 . . . .
 . . . .
@@ -98,7 +93,6 @@ Try next column in row `1`
 
 Place queen at `(1,3)`
 
-```text
 Q . . .
 . . . Q
 . . . .
@@ -111,7 +105,6 @@ Continue recursively...
 
 # Recursion Tree
 
-```text
 Row0
 ├── (0,0)
 │   ├── (1,2)
@@ -155,7 +148,6 @@ Backtracking means:
 
 This line performs backtracking:
 
-```cpp
 board[row][i]='.';
 ```
 
@@ -165,7 +157,6 @@ It removes the queen so other possibilities can be explored.
 
 # Base Case
 
-```cpp
 if(row==n)
 ```
 
@@ -179,7 +170,6 @@ So we store the board configuration in `ans`.
 
 Worst Case:
 
-```text
 O(N!)
 ```
 
@@ -201,17 +191,13 @@ For storing the chessboard.
 
 Recursion stack space:
 
-```text
 O(N)
 ```
-
----
 
 # Final Output for N = 4
 
 ## Solution 1
 
-```text
 . Q . .
 . . . Q
 Q . . .
@@ -220,7 +206,6 @@ Q . . .
 
 ## Solution 2
 
-```text
 . . Q .
 Q . . .
 . . . Q
@@ -238,14 +223,3 @@ Q . . .
 - Recursive Tree Exploration
 
 ---
-
-# Conclusion
-
-The N-Queens problem is one of the best problems to understand:
-
-- Recursion
-- Decision Trees
-- Backtracking
-- Constraint Checking
-
-The algorithm explores every possible configuration and backtracks whenever a conflict occurs.
