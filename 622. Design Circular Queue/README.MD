@@ -10,9 +10,7 @@ Design a circular queue that supports the following operations:
 - `isEmpty()` → Check whether the queue is empty.
 - `isFull()` → Check whether the queue is full.
 
-A circular queue connects the last position back to the first position, allowing efficient reuse of space.
-
----
+A circular queue connects the last position back to the first position, allowing efficient reuse of space.  
 
 ## Approach
 
