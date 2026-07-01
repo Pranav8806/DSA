@@ -1,91 +1,71 @@
-# 🔄 Swap Nodes in Linked List (C++)
+# Swapping Nodes in a Linked List
 
-## 📌 Problem Statement
+## Problem Statement
+Given the head of a singly linked list and an integer `k`, swap the values of the `k`th node from the beginning and the `k`th node from the end, then return the head of the modified linked list.
 
-Given the head of a singly linked list and an integer `k`, swap the values of the **k-th node from the beginning** and the **k-th node from the end**, and return the modified list.
+**Note:** This implementation swaps the **values** of the nodes, not the nodes themselves.
 
 ---
 
-## 💡 Approach (Using Vector)
+## Approach
 
-Instead of directly manipulating pointers in the linked list, we:
+- Traverse the linked list to reach the `k`th node from the beginning and store its pointer.
+- Use another pointer to continue to the end of the list.
+- Simultaneously move a second pointer from the head.
+- When the first pointer reaches the last node, the second pointer will be at the `k`th node from the end.
+- Swap the values of the two nodes.
+- Return the head.
 
-### 1. Convert Linked List → Vector
+This approach finds both required nodes in a single traversal after locating the `k`th node.
 
-* Traverse the list and store all node values in a vector.
+---
 
-```cpp
-vector<int> ans;
-ListNode* temp = head;
-while(temp != NULL){
-    ans.push_back(temp->val);
-    temp = temp->next;
-}
+## Algorithm
+
+1. Initialize `curr` to the head.
+2. Move `curr` to the `k`th node from the beginning.
+3. Store this node in `st`.
+4. Initialize another pointer `ed` to the head.
+5. Move both `curr` and `ed` together until `curr` reaches the last node.
+6. Now `ed` points to the `k`th node from the end.
+7. Swap `st->val` and `ed->val`.
+8. Return the head.
+
+---
+
+## Complexity Analysis
+
+- **Time Complexity:** `O(n)`
+- **Space Complexity:** `O(1)`
+
+---
+
+## Example
+
+**Input**
+
+```text
+head = [1,2,3,4,5], k = 2
+```
+
+**Output**
+
+```text
+[1,4,3,2,5]
+```
+
+**Explanation**
+
+- 2nd node from the beginning = `2`
+- 2nd node from the end = `4`
+- Swapping their values results in:
+
+```text
+1 → 4 → 3 → 2 → 5
 ```
 
 ---
 
-### 2. Swap Required Elements
+## Note
 
-* Swap:
-
-  * `(k-1)` index → k-th from start
-  * `(n-k)` index → k-th from end
-
-```cpp
-if(k > ans.size()) return head;
-swap(ans[k-1], ans[ans.size()-k]);
-```
-
----
-
-### 3. Convert Vector → Linked List
-
-* Create a new linked list using swapped values.
-
-```cpp
-ListNode *nhead = new ListNode(ans[0]);
-ListNode* temp2 = nhead;
-
-for(int i = 1; i < ans.size(); i++){
-    temp2->next = new ListNode(ans[i]);
-    temp2 = temp2->next;
-}
-
-
----
-
-## ⚡ Time Complexity
-
-* **O(n)** → traverse + rebuild
-
-## 💾 Space Complexity
-
-* **O(n)** → vector storage
-
----
-
-## 🎯 Key Points
-
-* Easy approach using extra space
-* Avoids complex pointer manipulation
-* Not optimal for space → can be improved to **O(1)**
-
----
-
-## 🚀 Optimization Idea (Better Approach)
-
-* Use two pointers:
-
-  * First find k-th node from start
-  * Then find k-th from end using two-pointer trick
-* Swap values directly without extra space
-
----
-
-## ⚠️ Notes
-
-* This solution creates a **new linked list**
-* Original list nodes are not reused (extra memory used)
-
----
+This solution swaps only the **values** stored in the nodes. If the problem requires swapping the actual nodes by modifying pointers without changing node values, a different pointer manipulation approach is needed.
