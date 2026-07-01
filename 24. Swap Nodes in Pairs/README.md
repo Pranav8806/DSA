@@ -1,67 +1,59 @@
-# 🔄 Swap Nodes in Pairs (Linked List)
+# Swap Nodes in Pairs
 
-## 📌 Problem Statement
+## Problem Statement
+Given the head of a singly linked list, swap every two adjacent nodes and return its head.
 
-Given a singly linked list, swap every two adjacent nodes and return the modified list.
-
-You must **not modify node values directly** (though this solution does for simplicity), but instead swap nodes logically.
-
----
-
-## 💡 Approach Used
-
-This solution follows a **brute-force approach using an array (vector)**:
-
-### Steps:
-
-1. Traverse the linked list and store all node values in a vector.
-2. Swap adjacent elements in the vector (i.e., swap `i` and `i+1`).
-3. Create a new linked list using the modified vector.
-4. Return the new head.
+**Note:** This implementation swaps the **values** of adjacent nodes instead of modifying the node links.
 
 ---
 
-## 🧠 Logic Breakdown
+## Approach
 
-* Extract values → `[1, 2, 3, 4]`
-* Swap pairs → `[2, 1, 4, 3]`
-* Rebuild linked list → `2 → 1 → 4 → 3`
+- If the linked list is empty or contains only one node, return the head.
+- Traverse the linked list using a pointer.
+- For every pair of adjacent nodes:
+  - Swap their values using `swap()`.
+  - Move the pointer two nodes ahead.
+- Continue until there are fewer than two nodes remaining.
 
----
-
-## ⏱️ Time Complexity
-
-* Traversing list: `O(n)`
-* Swapping elements: `O(n)`
-* Rebuilding list: `O(n)`
-
-👉 **Overall:** `O(n)`
+This approach is simple and avoids manipulating pointers.
 
 ---
 
-## 💾 Space Complexity
+## Algorithm
 
-* Extra vector used: `O(n)`
-
----
-
-## ⚠️ Drawbacks
-
-* Uses extra space (not optimal).
-* Doesn't follow in-place swapping (which is expected in interviews).
+1. Check if the list is empty or has only one node.
+2. Initialize a pointer `temp` to the head.
+3. While `temp` and `temp->next` are not `NULL`:
+   - Swap `temp->val` and `temp->next->val`.
+   - Move `temp = temp->next->next`.
+4. Return the head.
 
 ---
 
-## 🚀 Optimal Approach (Hint)
+## Complexity Analysis
 
-Instead of using extra space:
+- **Time Complexity:** `O(n)`
+- **Space Complexity:** `O(1)`
 
-* Use pointer manipulation
-* Swap nodes directly
-* Maintain `prev`, `first`, `second` pointers
+---
 
-👉 This gives:
+## Example
 
-* **Time:** `O(n)`
-* **Space:** `O(1)`
+**Input**
 
+```text
+1 -> 2 -> 3 -> 4
+```
+
+**Output**
+
+```text
+2 -> 1 -> 4 -> 3
+```
+
+---
+
+## Note
+
+This solution **swaps node values**, not the actual nodes. If the problem explicitly requires swapping the nodes by changing pointers and **without modifying node values**, a different pointer-based approach should be used.
