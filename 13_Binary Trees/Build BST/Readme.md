@@ -201,9 +201,3 @@ does not simply return a node. It returns the **root of the updated subtree**, a
 - Tree Traversals
 - Divide and Conquer
 - Time Complexity Analysis
-
-## Author
-
-**Pranav Sharma**
-- B.Tech CSE (AI & ML)
-- Jaypee University of Information Technology
