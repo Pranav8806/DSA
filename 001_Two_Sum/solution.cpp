@@ -12,6 +12,6 @@ class Solution {
                 }
                 m[nums[i]]=i;        //nums[i] is stored as key and i as value
             }  
-        return ans;    
+        return ans; 
         }
     };
