@@ -66,4 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pranav8806/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranav8806/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Hash Table
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranav8806/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranav8806/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
