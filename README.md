@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Pranav8806/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/Pranav8806/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pranav8806/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pranav8806/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Pranav8806/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pranav8806/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranav8806/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
