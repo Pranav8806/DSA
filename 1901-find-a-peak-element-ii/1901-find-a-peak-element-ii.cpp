@@ -1,25 +1,32 @@
 class Solution {
 public:
+    int maxrow(vector<vector<int>>& mat,int m,int mid){
+        int mxindx=-1;
+        int mx=INT_MIN;
+        for(int i=0;i<m;i++){
+            if(mat[i][mid]>mx){
+                mx=mat[i][mid];
+                mxindx=i;
+            }
+        }
+        return mxindx;
+    }
     vector<int> findPeakGrid(vector<vector<int>>& mat) {
         int m=mat.size();
         int n=mat[0].size();
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                //top
-                int top=INT_MIN;
-                if(i-1>=0)  top=mat[i-1][j];
-                //bottom
-                int bottom=INT_MIN;
-                if(i+1<m)  bottom=mat[i+1][j];
-                //left
-                int left=INT_MIN;
-                if(j-1>=0)  left=mat[i][j-1];
-                //right
-                int right=INT_MIN;
-                if(j+1<n)  right=mat[i][j+1];
-                if(mat[i][j]>left && mat[i][j]>right && mat[i][j]>top && mat[i][j]>bottom) return{i,j};
-            }
+        int st=0,ed=n-1;
+        while(st<=ed){
+            int mid=(st+ed)/2;
+            int mxrow=maxrow(mat,m,mid);
+            int left=INT_MIN;
+            int right=INT_MIN;
+            if(mid-1>=0) left=mat[mxrow][mid-1];
+            if(mid+1<n) right=mat[mxrow][mid+1];
+            if(mat[mxrow][mid]>left && mat[mxrow][mid]>right) return{mxrow,mid};
+            else if(mat[mxrow][mid+1]>mat[mxrow][mid]) st=mid+1;
+            else ed=mid-1;
         }
+
         return{};
     }
 };
