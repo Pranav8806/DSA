@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pranav8806/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pranav8806/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pranav8806/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1901-find-a-peak-element-ii](https://github.com/Pranav8806/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Iterator
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Pranav8806/DSA/tree/master/0455-assign-cookies) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pranav8806/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pranav8806/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1901-find-a-peak-element-ii](https://github.com/Pranav8806/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranav8806/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Pranav8806/DSA/tree/master/0455-assign-cookies) |
+## Matrix
+|  |
+| ------- |
+| [1901-find-a-peak-element-ii](https://github.com/Pranav8806/DSA/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
