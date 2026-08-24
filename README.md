@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Pranav8806/DSA/tree/master/0242-valid-anagram) |
+| [0434-number-of-segments-in-a-string](https://github.com/Pranav8806/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Pranav8806/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Two Pointers
 |  |
