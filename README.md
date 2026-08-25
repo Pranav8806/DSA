@@ -87,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pranav8806/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1901-find-a-peak-element-ii](https://github.com/Pranav8806/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranav8806/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Pranav8806/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Pranav8806/DSA/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranav8806/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Pranav8806/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
