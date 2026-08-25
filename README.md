@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Pranav8806/DSA/tree/master/0016-3sum-closest) |
 | [0055-jump-game](https://github.com/Pranav8806/DSA/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Pranav8806/DSA/tree/master/0057-insert-interval) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pranav8806/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Pranav8806/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Pranav8806/DSA/tree/master/0162-find-peak-element) |
