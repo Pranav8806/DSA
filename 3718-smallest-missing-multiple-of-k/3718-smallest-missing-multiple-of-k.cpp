@@ -1,13 +1,13 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        unordered_map<int,bool>mp;
+        vector<bool>freq(101);
         for(auto num :nums){
-            mp[num]=true;
+           freq[num]=true;
         }
         int n=k;
         while(n<101){
-            if(!mp.count(n)) return n;
+            if(!freq[n]) return n;
             n=n+k;
         }
         while(n%k!=0){
