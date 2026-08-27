@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pranav8806/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pranav8806/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1901-find-a-peak-element-ii](https://github.com/Pranav8806/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2643-row-with-maximum-ones](https://github.com/Pranav8806/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranav8806/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pranav8806/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/Pranav8806/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2643-row-with-maximum-ones](https://github.com/Pranav8806/DSA/tree/master/2643-row-with-maximum-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
