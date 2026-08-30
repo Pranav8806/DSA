@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pranav8806/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Pranav8806/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Pranav8806/DSA/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/Pranav8806/DSA/tree/master/0164-maximum-gap) |
 | [0455-assign-cookies](https://github.com/Pranav8806/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Pranav8806/DSA/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pranav8806/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Pranav8806/DSA/tree/master/0016-3sum-closest) |
+| [0164-maximum-gap](https://github.com/Pranav8806/DSA/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/Pranav8806/DSA/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Pranav8806/DSA/tree/master/0455-assign-cookies) |
 | [2740-find-the-value-of-the-partition](https://github.com/Pranav8806/DSA/tree/master/2740-find-the-value-of-the-partition) |
@@ -162,4 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3115-maximum-prime-difference](https://github.com/Pranav8806/DSA/tree/master/3115-maximum-prime-difference) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Pranav8806/DSA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Pranav8806/DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Pranav8806/DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
