@@ -12,23 +12,30 @@ class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
         if(head->next->next==NULL) return{-1,-1};
-        vector<int>cp;
         ListNode *temp=head->next;
         ListNode *prev=head;
         int node=2;
+        int firstcp=-1;
+        int prevcp=-1;
+        int mn=INT_MAX;
+        int mx=INT_MIN;
         while(temp->next!=NULL){
             if((prev->val>temp->val && temp->val<temp->next->val) ||(prev->val<temp->val && temp->val>temp->next->val)){
-                cp.push_back(node);
+                if(firstcp==-1){
+                    firstcp=node;
+                }
+                if(prevcp!=-1){
+                    mn=min(mn,node-prevcp);
+                }
+                mx=node-firstcp;
+                prevcp=node;
             }
             prev=temp;
             node++;
             temp=temp->next;
         }
-        if (cp.size() < 2) return {-1, -1};
-        int mn=INT_MAX;
-        for(int i=1;i<cp.size();i++){
-            mn=min(mn,cp[i]-cp[i-1]);
-        }
-        return{mn,cp[cp.size()-1]-cp[0]};
+        if(mx==INT_MIN || mn==INT_MAX) return{-1,-1}; 
+        if(firstcp==-1 ) return{-1,-1};
+        return{mn,mx};
     }
 };
