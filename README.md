@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Pranav8806/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Pranav8806/DSA/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/Pranav8806/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranav8806/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pranav8806/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pranav8806/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pranav8806/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Pranav8806/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Pranav8806/DSA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Pranav8806/DSA/tree/master/0164-maximum-gap) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranav8806/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0455-assign-cookies](https://github.com/Pranav8806/DSA/tree/master/0455-assign-cookies) |
 | [0654-maximum-binary-tree](https://github.com/Pranav8806/DSA/tree/master/0654-maximum-binary-tree) |
 | [0860-lemonade-change](https://github.com/Pranav8806/DSA/tree/master/0860-lemonade-change) |
@@ -210,6 +212,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranav8806/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Pranav8806/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Pranav8806/DSA/tree/master/3904-smallest-stable-index-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranav8806/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
