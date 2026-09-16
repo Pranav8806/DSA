@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pranav8806/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1901-find-a-peak-element-ii](https://github.com/Pranav8806/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pranav8806/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Pranav8806/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Pranav8806/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2643-row-with-maximum-ones](https://github.com/Pranav8806/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2740-find-the-value-of-the-partition](https://github.com/Pranav8806/DSA/tree/master/2740-find-the-value-of-the-partition) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pranav8806/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Pranav8806/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Pranav8806/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2643-row-with-maximum-ones](https://github.com/Pranav8806/DSA/tree/master/2643-row-with-maximum-ones) |
 ## Dynamic Programming
 |  |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Pranav8806/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Simulation
+|  |
+| ------- |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Pranav8806/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 <!---LeetCode Topics End-->
