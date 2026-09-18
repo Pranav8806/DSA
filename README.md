@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranav8806/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Pranav8806/DSA/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Pranav8806/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pranav8806/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pranav8806/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pranav8806/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Pranav8806/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Pranav8806/DSA/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/Pranav8806/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Pranav8806/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Pranav8806/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pranav8806/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranav8806/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Pranav8806/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pranav8806/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pranav8806/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pranav8806/DSA/tree/master/1004-max-consecutive-ones-iii) |
