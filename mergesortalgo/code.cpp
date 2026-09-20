@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+                                        #include <bits/stdc++.h>
 using namespace std;
 void merge(vector<int>&arr,int mid,int start,int end){
     int i=start,j=mid+1;
