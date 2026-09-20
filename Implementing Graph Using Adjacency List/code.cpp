@@ -1,12 +1,13 @@
 #include<iostream>
 #include<vector>
 #include<list>
+#include<queue>
 using namespace std;
 class Graph
 {
+    public:
     int V;
     list<int> *l;
-    public:
     Graph(int V){
         this->V=V;
         l=new list<int>[V];
@@ -24,6 +25,26 @@ class Graph
             cout<<endl;
         }
     }
+    //bfs
+    void bfs(){
+        queue<int>q;
+        q.push(0);
+        vector<bool>vis(V,false);
+        vis[0]=true;
+        while (q.size()>0)
+        {
+            int u=q.front();
+            cout<<u<<" ";
+            q.pop();
+            for(auto neigh:l[u]){
+                if(!vis[neigh]){
+                    vis[neigh]=true;
+                    q.push(neigh);
+                }
+            }
+        }
+        cout<<endl;
+    }
 };
 int main(){
     Graph g(5);
@@ -33,6 +54,7 @@ int main(){
     g.addEdge(2,3);
     g.addEdge(2,4);
     g.print();
+    g.bfs();
 }
 
 
