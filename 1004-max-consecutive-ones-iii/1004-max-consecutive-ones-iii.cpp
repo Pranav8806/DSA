@@ -4,9 +4,9 @@ public:
         int mxlen=0;
         int zero=0;
         int lp=0,rp=0;
-        while(lp<nums.size() && rp<nums.size()){
+        while(rp<nums.size() ){
             if(nums[rp]==0) zero++;
-            if(zero>k){
+            while(zero>k){
                 if(nums[lp]==0) zero--;
                 lp++;
             }
