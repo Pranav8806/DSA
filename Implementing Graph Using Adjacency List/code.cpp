@@ -45,16 +45,35 @@ class Graph
         }
         cout<<endl;
     }
+    //dfs
+    void dfshepler(int u,vector<bool>&vis){
+        cout<<u<<" ";
+        vis[u]=true;
+        for(auto neigh:l[u]){
+            if(!vis[neigh]){
+                dfshepler(neigh,vis);
+            }
+        }
+    }   
+    void dfs(){
+        int src=0;
+        vector<bool>vis(V,false);
+        for(int i=0;i<V;i++){
+            if(!vis[i]){        //for disconnected graph
+                dfshepler(i,vis);
+            }
+        }
+    }
 };
 int main(){
     Graph g(5);
     g.addEdge(0,1);
     g.addEdge(1,2);
     g.addEdge(1,3);
-    g.addEdge(2,3);
     g.addEdge(2,4);
     g.print();
     g.bfs();
+    g.dfs();
 }
 
 
