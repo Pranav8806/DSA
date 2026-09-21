@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/Pranav8806/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2740-find-the-value-of-the-partition](https://github.com/Pranav8806/DSA/tree/master/2740-find-the-value-of-the-partition) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Pranav8806/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pranav8806/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranav8806/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3115-maximum-prime-difference](https://github.com/Pranav8806/DSA/tree/master/3115-maximum-prime-difference) |
 | [3452-sum-of-good-numbers](https://github.com/Pranav8806/DSA/tree/master/3452-sum-of-good-numbers) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Pranav8806/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pranav8806/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Pranav8806/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pranav8806/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranav8806/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pranav8806/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pranav8806/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pranav8806/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Pranav8806/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pranav8806/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Counting
 |  |
 | ------- |
