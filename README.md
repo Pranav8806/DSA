@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Pranav8806/DSA/tree/master/0204-count-primes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pranav8806/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranav8806/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pranav8806/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Pranav8806/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3115-maximum-prime-difference](https://github.com/Pranav8806/DSA/tree/master/3115-maximum-prime-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pranav8806/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -245,12 +246,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Pranav8806/DSA/tree/master/0204-count-primes) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pranav8806/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Pranav8806/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3115-maximum-prime-difference](https://github.com/Pranav8806/DSA/tree/master/3115-maximum-prime-difference) |
 ## Primality Test
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Pranav8806/DSA/tree/master/0204-count-primes) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pranav8806/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3115-maximum-prime-difference](https://github.com/Pranav8806/DSA/tree/master/3115-maximum-prime-difference) |
 ## Bucket Sort
 |  |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Pranav8806/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pranav8806/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pranav8806/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Doubly-Linked List
 |  |
@@ -329,12 +333,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Pranav8806/DSA/tree/master/0204-count-primes) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pranav8806/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Pranav8806/DSA/tree/master/0204-count-primes) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pranav8806/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Queue
 |  |
 | ------- |
 | [0641-design-circular-deque](https://github.com/Pranav8806/DSA/tree/master/0641-design-circular-deque) |
+## Prime Factorization
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pranav8806/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
