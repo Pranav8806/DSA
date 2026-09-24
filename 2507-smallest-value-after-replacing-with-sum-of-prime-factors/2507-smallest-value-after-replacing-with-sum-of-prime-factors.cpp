@@ -2,7 +2,12 @@ class Solution {
 public:
     int sumofprime(int n){
         if(n<=1) return 0;
+        //for even nos
         int sum=0;
+        while(n%2==0){
+            sum+=2;
+            n=n/2;
+        }
         for(int i=2;i*i<=n;i++){
             while(n%i==0){
                 sum+=i;
