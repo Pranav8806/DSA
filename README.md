@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Pranav8806/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0654-maximum-binary-tree](https://github.com/Pranav8806/DSA/tree/master/0654-maximum-binary-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pranav8806/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Pranav8806/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pranav8806/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/Pranav8806/DSA/tree/master/1472-design-browser-history) |
 ## Design
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Pranav8806/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0641-design-circular-deque](https://github.com/Pranav8806/DSA/tree/master/0641-design-circular-deque) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Pranav8806/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Pranav8806/DSA/tree/master/1472-design-browser-history) |
 ## Binary Search Tree
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Pranav8806/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pranav8806/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pranav8806/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Pranav8806/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pranav8806/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pranav8806/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/Pranav8806/DSA/tree/master/1472-design-browser-history) |
