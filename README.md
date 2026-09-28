@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Pranav8806/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0654-maximum-binary-tree](https://github.com/Pranav8806/DSA/tree/master/0654-maximum-binary-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pranav8806/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Pranav8806/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/Pranav8806/DSA/tree/master/1472-design-browser-history) |
 ## Design
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pranav8806/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pranav8806/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pranav8806/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Pranav8806/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/Pranav8806/DSA/tree/master/1472-design-browser-history) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pranav8806/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranav8806/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Pranav8806/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Pranav8806/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pranav8806/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pranav8806/DSA/tree/master/3498-reverse-degree-of-a-string) |
