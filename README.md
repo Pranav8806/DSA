@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Pranav8806/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3115-maximum-prime-difference](https://github.com/Pranav8806/DSA/tree/master/3115-maximum-prime-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pranav8806/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Pranav8806/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pranav8806/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Pranav8806/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pranav8806/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pranav8806/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranav8806/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3115-maximum-prime-difference](https://github.com/Pranav8806/DSA/tree/master/3115-maximum-prime-difference) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Pranav8806/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3452-sum-of-good-numbers](https://github.com/Pranav8806/DSA/tree/master/3452-sum-of-good-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pranav8806/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pranav8806/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Pranav8806/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pranav8806/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranav8806/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Pranav8806/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/Pranav8806/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Pranav8806/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Sliding Window
