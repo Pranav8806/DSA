@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Pranav8806/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pranav8806/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1901-find-a-peak-element-ii](https://github.com/Pranav8806/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [1929-concatenation-of-array](https://github.com/Pranav8806/DSA/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pranav8806/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pranav8806/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Pranav8806/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pranav8806/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1929-concatenation-of-array](https://github.com/Pranav8806/DSA/tree/master/1929-concatenation-of-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Pranav8806/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pranav8806/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pranav8806/DSA/tree/master/3498-reverse-degree-of-a-string) |
