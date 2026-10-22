@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Pranav8806/DSA/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Pranav8806/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pranav8806/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Pranav8806/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pranav8806/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pranav8806/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pranav8806/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Pranav8806/DSA/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Pranav8806/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pranav8806/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Pranav8806/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pranav8806/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranav8806/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Monotonic Stack
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Pranav8806/DSA/tree/master/0191-number-of-1-bits) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pranav8806/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0654-maximum-binary-tree](https://github.com/Pranav8806/DSA/tree/master/0654-maximum-binary-tree) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Pranav8806/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Cartesian Tree
 |  |
 | ------- |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0641-design-circular-deque](https://github.com/Pranav8806/DSA/tree/master/0641-design-circular-deque) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Pranav8806/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -468,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Pranav8806/DSA/tree/master/0229-majority-element-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Pranav8806/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
