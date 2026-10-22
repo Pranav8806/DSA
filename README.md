@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Pranav8806/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranav8806/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Pranav8806/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Pranav8806/DSA/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Pranav8806/DSA/tree/master/0455-assign-cookies) |
 | [0641-design-circular-deque](https://github.com/Pranav8806/DSA/tree/master/0641-design-circular-deque) |
 | [0654-maximum-binary-tree](https://github.com/Pranav8806/DSA/tree/master/0654-maximum-binary-tree) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Pranav8806/DSA/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranav8806/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Pranav8806/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Pranav8806/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pranav8806/DSA/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pranav8806/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranav8806/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Pranav8806/DSA/tree/master/0016-3sum-closest) |
 | [0164-maximum-gap](https://github.com/Pranav8806/DSA/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Pranav8806/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Pranav8806/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pranav8806/DSA/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Pranav8806/DSA/tree/master/0455-assign-cookies) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Pranav8806/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Pranav8806/DSA/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pranav8806/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Pranav8806/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
@@ -460,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Pranav8806/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Pranav8806/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
