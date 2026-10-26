@@ -10,7 +10,7 @@ public:
             int res=stoi(s);
             v.push_back({x,res});
         }
-        sort(v.begin(), v.end(), [](const auto& a, const auto& b) {
+        sort(v.begin(), v.end(), [](const auto& a, const auto& b) {   //sort by max gain
             return (a.second - a.first) > (b.second - b.first);
         });
         for(auto it:v){
