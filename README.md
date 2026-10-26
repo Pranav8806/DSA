@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pranav8806/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Pranav8806/DSA/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Pranav8806/DSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Pranav8806/DSA/tree/master/0561-array-partition) |
 | [0641-design-circular-deque](https://github.com/Pranav8806/DSA/tree/master/0641-design-circular-deque) |
 | [0654-maximum-binary-tree](https://github.com/Pranav8806/DSA/tree/master/0654-maximum-binary-tree) |
 | [0860-lemonade-change](https://github.com/Pranav8806/DSA/tree/master/0860-lemonade-change) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Pranav8806/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pranav8806/DSA/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Pranav8806/DSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Pranav8806/DSA/tree/master/0561-array-partition) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Pranav8806/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pranav8806/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pranav8806/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Pranav8806/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Pranav8806/DSA/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Pranav8806/DSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Pranav8806/DSA/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Pranav8806/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Pranav8806/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Pranav8806/DSA/tree/master/0860-lemonade-change) |
@@ -486,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pranav8806/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Pranav8806/DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
