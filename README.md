@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Pranav8806/DSA/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/Pranav8806/DSA/tree/master/0595-big-countries) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Pranav8806/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Union-Find
 |  |
