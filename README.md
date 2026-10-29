@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pranav8806/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pranav8806/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Pranav8806/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Pranav8806/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pranav8806/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Pranav8806/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Two Pointers
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Pranav8806/DSA/tree/master/0191-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Pranav8806/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Pranav8806/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Pranav8806/DSA/tree/master/0022-generate-parentheses) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Pranav8806/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Binary Indexed Tree
 |  |
 | ------- |
