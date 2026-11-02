@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Pranav8806/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranav8806/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Pranav8806/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Pranav8806/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pranav8806/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Pranav8806/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3115-maximum-prime-difference](https://github.com/Pranav8806/DSA/tree/master/3115-maximum-prime-difference) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pranav8806/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranav8806/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Pranav8806/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Pranav8806/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pranav8806/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1901-find-a-peak-element-ii](https://github.com/Pranav8806/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/Pranav8806/DSA/tree/master/1929-concatenation-of-array) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Pranav8806/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pranav8806/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranav8806/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Pranav8806/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Pranav8806/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pranav8806/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/Pranav8806/DSA/tree/master/3903-smallest-stable-index-i) |
