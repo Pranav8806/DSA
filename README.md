@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Pranav8806/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Pranav8806/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Pranav8806/DSA/tree/master/0226-invert-binary-tree) |
+| [0437-path-sum-iii](https://github.com/Pranav8806/DSA/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Pranav8806/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pranav8806/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/Pranav8806/DSA/tree/master/0654-maximum-binary-tree) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Pranav8806/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pranav8806/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Pranav8806/DSA/tree/master/0226-invert-binary-tree) |
+| [0437-path-sum-iii](https://github.com/Pranav8806/DSA/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Pranav8806/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pranav8806/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pranav8806/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Pranav8806/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Pranav8806/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Pranav8806/DSA/tree/master/0226-invert-binary-tree) |
+| [0437-path-sum-iii](https://github.com/Pranav8806/DSA/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Pranav8806/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pranav8806/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/Pranav8806/DSA/tree/master/0654-maximum-binary-tree) |
