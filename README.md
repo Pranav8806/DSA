@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Pranav8806/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Pranav8806/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Pranav8806/DSA/tree/master/0229-majority-element-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Pranav8806/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pranav8806/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Pranav8806/DSA/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pranav8806/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pranav8806/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Pranav8806/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pranav8806/DSA/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/Pranav8806/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Pranav8806/DSA/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pranav8806/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Pranav8806/DSA/tree/master/0561-array-partition) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Pranav8806/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranav8806/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Pranav8806/DSA/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/Pranav8806/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Pranav8806/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Pranav8806/DSA/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Pranav8806/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Pranav8806/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranav8806/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Pranav8806/DSA/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Pranav8806/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Pranav8806/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pranav8806/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pranav8806/DSA/tree/master/0918-maximum-sum-circular-subarray) |
