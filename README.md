@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Pranav8806/DSA/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pranav8806/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pranav8806/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Pranav8806/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pranav8806/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranav8806/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Pranav8806/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pranav8806/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Pranav8806/DSA/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pranav8806/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Pranav8806/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0561-array-partition](https://github.com/Pranav8806/DSA/tree/master/0561-array-partition) |
 | [0641-design-circular-deque](https://github.com/Pranav8806/DSA/tree/master/0641-design-circular-deque) |
 | [0654-maximum-binary-tree](https://github.com/Pranav8806/DSA/tree/master/0654-maximum-binary-tree) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pranav8806/DSA/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pranav8806/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranav8806/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0523-continuous-subarray-sum](https://github.com/Pranav8806/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Pranav8806/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pranav8806/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pranav8806/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Pranav8806/DSA/tree/master/0164-maximum-gap) |
+| [0523-continuous-subarray-sum](https://github.com/Pranav8806/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pranav8806/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Divide and Conquer
 |  |
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranav8806/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Pranav8806/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Pranav8806/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pranav8806/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pranav8806/DSA/tree/master/1004-max-consecutive-ones-iii) |
