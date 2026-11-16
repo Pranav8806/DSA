@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranav8806/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Pranav8806/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Pranav8806/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Pranav8806/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pranav8806/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Pranav8806/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3115-maximum-prime-difference](https://github.com/Pranav8806/DSA/tree/master/3115-maximum-prime-difference) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Pranav8806/DSA/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pranav8806/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pranav8806/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Pranav8806/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Pranav8806/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Pranav8806/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Pranav8806/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Pranav8806/DSA/tree/master/0204-count-primes) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Pranav8806/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pranav8806/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Pranav8806/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3115-maximum-prime-difference](https://github.com/Pranav8806/DSA/tree/master/3115-maximum-prime-difference) |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pranav8806/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Pranav8806/DSA/tree/master/1929-concatenation-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Pranav8806/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pranav8806/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Pranav8806/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Pranav8806/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -595,4 +599,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Pranav8806/DSA/tree/master/0207-course-schedule) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Pranav8806/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
