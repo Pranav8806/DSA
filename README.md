@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pranav8806/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pranav8806/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/Pranav8806/DSA/tree/master/1472-design-browser-history) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Pranav8806/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pranav8806/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranav8806/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Pranav8806/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Pranav8806/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Pranav8806/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pranav8806/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Pranav8806/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Pranav8806/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pranav8806/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pranav8806/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pranav8806/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Pranav8806/DSA/tree/master/0561-array-partition) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pranav8806/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Pranav8806/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Pranav8806/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pranav8806/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pranav8806/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Pranav8806/DSA/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pranav8806/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Pranav8806/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Pranav8806/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Pranav8806/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Pranav8806/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pranav8806/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -498,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Pranav8806/DSA/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pranav8806/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1267-count-servers-that-communicate](https://github.com/Pranav8806/DSA/tree/master/1267-count-servers-that-communicate) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Pranav8806/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Pranav8806/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
