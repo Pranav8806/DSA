@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pranav8806/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Pranav8806/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pranav8806/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Pranav8806/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranav8806/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Pranav8806/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Pranav8806/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Pranav8806/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0641-design-circular-deque](https://github.com/Pranav8806/DSA/tree/master/0641-design-circular-deque) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Pranav8806/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Pranav8806/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Pranav8806/DSA/tree/master/1472-design-browser-history) |
 ## Binary Search Tree
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Pranav8806/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pranav8806/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pranav8806/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Pranav8806/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Pranav8806/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pranav8806/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pranav8806/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Pranav8806/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pranav8806/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Pranav8806/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Pranav8806/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pranav8806/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranav8806/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Pranav8806/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -524,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Pranav8806/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/Pranav8806/DSA/tree/master/1472-design-browser-history) |
 ## Sieve Theory
 |  |
